@@ -180,6 +180,9 @@
     <name>$PROJ_DIR$\bb.c</name>
   </file>
   <file>
+    <name>$PROJ_DIR$\cc.c</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\main.c</name>
   </file>
 </project>
