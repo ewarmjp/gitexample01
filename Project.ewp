@@ -622,7 +622,7 @@
       <name>BUILDACTION</name>
       <archiveVersion>1</archiveVersion>
       <data>
-        <prebuild>$PROJ_DIR$\aaa.bat  "$PROJ_DIR$"  $DATE$ "$USER_NAME$"</prebuild>
+        <prebuild>c:\usr\aaa.bat  "$PROJ_DIR$"  $DATE$ "$USER_NAME$"</prebuild>
         <postbuild></postbuild>
       </data>
     </settings>
