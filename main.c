@@ -7,6 +7,5 @@ int main()
     printf("i=%d,   foo(%d)=%d\n", i, i, foo(i));
   }
   
-  
   return 0;
 }
